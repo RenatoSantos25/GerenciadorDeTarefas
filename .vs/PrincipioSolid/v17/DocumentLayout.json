@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Documents\\PrincipioSolid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|c:\\users\\aluno\\documents\\principiosolid\\principiosolid\\services\\entities\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|solutionrelative:principiosolid\\services\\entities\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|c:\\users\\aluno\\documents\\principiosolid\\principiosolid\\services\\interfaces\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|solutionrelative:principiosolid\\services\\interfaces\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|c:\\users\\aluno\\documents\\principiosolid\\principiosolid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|solutionrelative:principiosolid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|c:\\users\\aluno\\documents\\principiosolid\\principiosolid\\view\\consoletaskprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|solutionrelative:principiosolid\\view\\consoletaskprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|c:\\users\\aluno\\documents\\principiosolid\\principiosolid\\view\\viewing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|solutionrelative:principiosolid\\view\\viewing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|c:\\users\\aluno\\documents\\principiosolid\\principiosolid\\principiosolid.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|solutionrelative:principiosolid\\principiosolid.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|c:\\users\\aluno\\documents\\principiosolid\\principiosolid\\services\\interfaces\\icompletable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|solutionrelative:principiosolid\\services\\interfaces\\icompletable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|c:\\users\\aluno\\documents\\principiosolid\\principiosolid\\services\\interfaces\\itaskprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|solutionrelative:principiosolid\\services\\interfaces\\itaskprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|c:\\users\\aluno\\documents\\principiosolid\\principiosolid\\model\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|solutionrelative:principiosolid\\model\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\PrincipioSolid\\PrincipioSolid\\Program.cs",
+              "RelativeDocumentMoniker": "PrincipioSolid\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\PrincipioSolid\\PrincipioSolid\\Program.cs",
+              "RelativeToolTip": "PrincipioSolid\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T17:02:43.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Viewing.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\PrincipioSolid\\PrincipioSolid\\View\\Viewing.cs",
+              "RelativeDocumentMoniker": "PrincipioSolid\\View\\Viewing.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\PrincipioSolid\\PrincipioSolid\\View\\Viewing.cs",
+              "RelativeToolTip": "PrincipioSolid\\View\\Viewing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:15:39.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleTaskPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\PrincipioSolid\\PrincipioSolid\\View\\ConsoleTaskPrinter.cs",
+              "RelativeDocumentMoniker": "PrincipioSolid\\View\\ConsoleTaskPrinter.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\PrincipioSolid\\PrincipioSolid\\View\\ConsoleTaskPrinter.cs",
+              "RelativeToolTip": "PrincipioSolid\\View\\ConsoleTaskPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:17:11.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PrincipioSolid.csproj",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\PrincipioSolid\\PrincipioSolid\\PrincipioSolid.csproj",
+              "RelativeDocumentMoniker": "PrincipioSolid\\PrincipioSolid.csproj",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\PrincipioSolid\\PrincipioSolid\\PrincipioSolid.csproj",
+              "RelativeToolTip": "PrincipioSolid\\PrincipioSolid.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-09T18:33:59.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICompletable.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\PrincipioSolid\\PrincipioSolid\\Services\\Interfaces\\ICompletable.cs",
+              "RelativeDocumentMoniker": "PrincipioSolid\\Services\\Interfaces\\ICompletable.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\PrincipioSolid\\PrincipioSolid\\Services\\Interfaces\\ICompletable.cs",
+              "RelativeToolTip": "PrincipioSolid\\Services\\Interfaces\\ICompletable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:17:09.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITaskPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\PrincipioSolid\\PrincipioSolid\\Services\\Interfaces\\ITaskPrinter.cs",
+              "RelativeDocumentMoniker": "PrincipioSolid\\Services\\Interfaces\\ITaskPrinter.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\PrincipioSolid\\PrincipioSolid\\Services\\Interfaces\\ITaskPrinter.cs",
+              "RelativeToolTip": "PrincipioSolid\\Services\\Interfaces\\ITaskPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:16:22.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\PrincipioSolid\\PrincipioSolid\\Services\\Entities\\TaskManager.cs",
+              "RelativeDocumentMoniker": "PrincipioSolid\\Services\\Entities\\TaskManager.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\PrincipioSolid\\PrincipioSolid\\Services\\Entities\\TaskManager.cs",
+              "RelativeToolTip": "PrincipioSolid\\Services\\Entities\\TaskManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:16:20.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\PrincipioSolid\\PrincipioSolid\\Model\\Task.cs",
+              "RelativeDocumentMoniker": "PrincipioSolid\\Model\\Task.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\PrincipioSolid\\PrincipioSolid\\Model\\Task.cs",
+              "RelativeToolTip": "PrincipioSolid\\Model\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:16:14.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPrintable.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\PrincipioSolid\\PrincipioSolid\\Services\\Interfaces\\IPrintable.cs",
+              "RelativeDocumentMoniker": "PrincipioSolid\\Services\\Interfaces\\IPrintable.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\PrincipioSolid\\PrincipioSolid\\Services\\Interfaces\\IPrintable.cs",
+              "RelativeToolTip": "PrincipioSolid\\Services\\Interfaces\\IPrintable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:17:07.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
