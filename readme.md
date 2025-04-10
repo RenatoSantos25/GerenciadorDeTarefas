@@ -3,7 +3,11 @@
 Este projeto de console foi desenvolvido com o objetivo de aplicar os 5 princípios do SOLID em C#, em um sistema simples de gerenciamento de tarefas com armazenamento totalmente em memória.
 
 ---
-
+- Sistema feito totalmente em memória (sem uso de banco de dados ou 
+arquivos).
+- Interface com o usuário feita via console (terminal).
+- Menu principal deve ser executado via método `main`.
+---
 ## 🧩 Funcionalidades
 
 - Criar tarefas
